@@ -1,0 +1,9 @@
+com\example\translate\service\TranslateService.class
+com\example\translate\config\AppConfig.class
+com\example\translate\dto\TranslateRequest.class
+com\example\translate\exception\RestExceptionHandler.class
+com\example\translate\exception\ApiError.class
+com\example\translate\TranslateBackendApplication.class
+com\example\translate\dto\TranslateResponse.class
+com\example\translate\exception\UpstreamServiceException.class
+com\example\translate\controller\TranslateController.class

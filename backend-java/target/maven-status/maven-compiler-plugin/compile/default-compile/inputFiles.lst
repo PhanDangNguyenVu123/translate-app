@@ -1,0 +1,9 @@
+C:\Users\vufra\translate-app\backend-java\src\main\java\com\example\translate\config\AppConfig.java
+C:\Users\vufra\translate-app\backend-java\src\main\java\com\example\translate\controller\TranslateController.java
+C:\Users\vufra\translate-app\backend-java\src\main\java\com\example\translate\dto\TranslateRequest.java
+C:\Users\vufra\translate-app\backend-java\src\main\java\com\example\translate\dto\TranslateResponse.java
+C:\Users\vufra\translate-app\backend-java\src\main\java\com\example\translate\exception\ApiError.java
+C:\Users\vufra\translate-app\backend-java\src\main\java\com\example\translate\exception\RestExceptionHandler.java
+C:\Users\vufra\translate-app\backend-java\src\main\java\com\example\translate\exception\UpstreamServiceException.java
+C:\Users\vufra\translate-app\backend-java\src\main\java\com\example\translate\service\TranslateService.java
+C:\Users\vufra\translate-app\backend-java\src\main\java\com\example\translate\TranslateBackendApplication.java
